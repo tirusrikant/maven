@@ -22,6 +22,8 @@ public class Excel {
 		System.out.println(exp.getMessage());
 		System.out.println(exp.getCause());
 		exp.printStackTrace();
+			getch();
+			
 		  
 	}
 
